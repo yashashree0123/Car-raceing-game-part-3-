@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../synchronousBallMovement-master"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "C36RV_SpeedRacer_Reference_Code-main 2"
+	}
+}
